@@ -1,2 +1,3 @@
-# meanstack
-web chat using the MEAN stack
+# Node API
+
+## Node + mongo + express + typescript
